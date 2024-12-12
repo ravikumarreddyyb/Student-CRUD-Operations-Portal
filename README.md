@@ -42,8 +42,10 @@ Follow these steps to set up and run the project locally:
    - Java Development Kit (JDK 8 or higher)
    - Apache Tomcat Server
    - MySQL Database
-   - Any IDE (Eclipse, IntelliJ IDEA, etc.)
+   - Any IDE (Eclipse)
 
 2. **Clone the Repository**:
    ```bash
    git clone <repository_url>
+## Screenshots link
+https://drive.google.com/drive/folders/1lQjtlAUYsBC0dlegYAXDodzJ4ARqohTO?usp=sharing
