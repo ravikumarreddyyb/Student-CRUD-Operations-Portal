@@ -48,4 +48,4 @@ Follow these steps to set up and run the project locally:
    ```bash
    git clone <repository_url>
 ## Screenshots link
-https://drive.google.com/drive/folders/1lQjtlAUYsBC0dlegYAXDodzJ4ARqohTO?usp=sharing
+https://drive.google.com/drive/folders/1sLEPrZQLtXE1DXQlYjWm-AZMsf8bhAlr?usp=sharing
